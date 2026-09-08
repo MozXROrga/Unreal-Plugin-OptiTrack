@@ -4,6 +4,10 @@
 
 MoxOptiTrack exposes existing OptiTrack Live Link subjects to Blueprint. It does not create an OptiTrack source and does not hard-code network settings.
 
+## DEPRECATED
+
+Use case for plugin was superseded (originally for [Unity](https://github.com/MozXROrga/Unity-StarterKit) Endpoint project)
+
 ## Requirements and activation
 
 Enable MoxOptiTrack and the project’s OptiTrack/Live Link integration. Configure source and network values in the owning project; use its configuration keys and environment-specific values rather than literal addresses from documentation.
